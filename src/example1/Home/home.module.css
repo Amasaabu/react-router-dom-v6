@@ -1,0 +1,10 @@
+.container {
+    width: 60%;
+    margin: auto;
+    height: 90vh;
+    background-color: antiquewhite;
+}
+h1 {
+    width: fit-content;
+    margin: auto;
+}

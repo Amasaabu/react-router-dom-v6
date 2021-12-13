@@ -1,0 +1,10 @@
+.container {
+    width: fit-content;
+    margin: auto;
+    height: 10vh;
+    background-color: rgb(143, 167, 143);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
